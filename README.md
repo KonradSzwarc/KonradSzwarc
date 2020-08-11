@@ -1,6 +1,17 @@
 ## Hey 👋, I'm Konrad
 
-### My technologies and tools
+I'm a Full Stack Developer and Co-Founder of the [CodersCrew](https://coderscrew.pl), a non-profit Polish association where developers can exchange their knowledge and form teams to realize impactful projects.
+
+### 🚀 Projects, I'm currently working on
+[![CodersCard](https://github-readme-stats.vercel.app/api/pin/?username=CodersCrew&repo=CodersCard)](https://github.com/CodersCrew/CodersCard)
+
+### 🎉 Finished projects, I was a part of
+[![inStudy](https://github-readme-stats.vercel.app/api/pin/?username=CodersCrew&repo=inStudy)](https://github.com/CodersCrew/inStudy)
+[![Slide Decks](https://github-readme-stats.vercel.app/api/pin/?username=CodersCrew&repo=slide-decks)](https://github.com/CodersCrew/slide-decks)
+[![Cheatsheet Parser](https://github-readme-stats.vercel.app/api/pin/?username=CodersCrew&repo=cheatsheet-parser)](https://github.com/CodersCrew/cheatsheet-parser)
+[![CodersKit](https://github-readme-stats.vercel.app/api/pin/?username=CodersCrew&repo=coderskit)](https://github.com/CodersCrew/coderskit)
+
+### 🛠 My technologies and tools
 
 #### Front-end
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
@@ -44,7 +55,7 @@
 ![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
 ![Material Design](https://img.shields.io/badge/-Material%20Design-757575?style=flat-square&logo=material-design&logoColor=white)
 
-### My stats
+### 📊 My stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=KonradSzwarc&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KonradSzwarc&hide=TeX&layout=compact)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=KonradSzwarc&count_private=true&show_icons=true&include_all_commits=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KonradSzwarc&hide=TeX&layout=compact" />
