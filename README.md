@@ -7,7 +7,8 @@ I'm a Full Stack Developer and Co-Founder of the [CodersCrew](https://coderscrew
 
 <br>
 
-### 🎉 Finished projects, I was a part of
+### 🎉 Finished projects
+[![Material UI Kit](https://github-readme-stats.vercel.app/api/pin/?username=CodersCrew&repo=material-ui-kit)](https://github.com/CodersCrew/material-ui-kit)
 [![inStudy](https://github-readme-stats.vercel.app/api/pin/?username=CodersCrew&repo=inStudy)](https://github.com/CodersCrew/inStudy)
 [![Slide Decks](https://github-readme-stats.vercel.app/api/pin/?username=CodersCrew&repo=slide-decks)](https://github.com/CodersCrew/slide-decks)
 [![Cheatsheet Parser](https://github-readme-stats.vercel.app/api/pin/?username=CodersCrew&repo=cheatsheet-parser)](https://github.com/CodersCrew/cheatsheet-parser)
