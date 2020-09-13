@@ -4,6 +4,7 @@ I'm a Full Stack Developer and Co-Founder of the [CodersCrew](https://coderscrew
 
 ### 🚀 Projects, I'm currently working on
 [![CodersCard](https://github-readme-stats.vercel.app/api/pin/?username=CodersCrew&repo=CodersCard)](https://github.com/CodersCrew/CodersCard)
+[![CodersBoard](https://github-readme-stats.vercel.app/api/pin/?username=CodersCrew&repo=coders-board)](https://github.com/CodersCrew/coders-board)
 
 <br>
 
