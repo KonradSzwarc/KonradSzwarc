@@ -10,10 +10,10 @@ I'm a Full Stack Developer and Co-Founder of the [CodersCrew](https://coderscrew
 
 ### 🎉 Finished projects
 [![Material UI Kit](https://github-readme-stats.vercel.app/api/pin/?username=CodersCrew&repo=material-ui-kit)](https://github.com/CodersCrew/material-ui-kit)
-[![inStudy](https://github-readme-stats.vercel.app/api/pin/?username=CodersCrew&repo=inStudy)](https://github.com/CodersCrew/inStudy)
+[![CodersKit](https://github-readme-stats.vercel.app/api/pin/?username=CodersCrew&repo=coderskit)](https://github.com/CodersCrew/coderskit)
 [![Slide Decks](https://github-readme-stats.vercel.app/api/pin/?username=CodersCrew&repo=slide-decks)](https://github.com/CodersCrew/slide-decks)
 [![Cheatsheet Parser](https://github-readme-stats.vercel.app/api/pin/?username=CodersCrew&repo=cheatsheet-parser)](https://github.com/CodersCrew/cheatsheet-parser)
-[![CodersKit](https://github-readme-stats.vercel.app/api/pin/?username=CodersCrew&repo=coderskit)](https://github.com/CodersCrew/coderskit)
+[![inStudy](https://github-readme-stats.vercel.app/api/pin/?username=CodersCrew&repo=inStudy)](https://github.com/CodersCrew/inStudy)
 
 <br>
 
