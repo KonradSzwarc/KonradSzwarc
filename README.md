@@ -3,7 +3,7 @@
 I'm a Full Stack Developer and Co-Founder of the [CodersCrew](https://coderscrew.pl), a non-profit Polish association where developers can exchange their knowledge and form teams to realize impactful projects.
 
 ### 🚀 Projects, I'm currently working on
-[![CodersCard](https://github-readme-stats.vercel.app/api/pin/?username=CodersCrew&repo=CodersCard)](https://github.com/CodersCrew/CodersCard)
+[![CodersCard](https://github-readme-stats.vercel.app/api/pin/?username=CodersCrew&repo=coders-card)](https://github.com/CodersCrew/coders-card)
 [![CodersBoard](https://github-readme-stats.vercel.app/api/pin/?username=CodersCrew&repo=coders-board)](https://github.com/CodersCrew/coders-board)
 
 <br>
