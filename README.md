@@ -2,19 +2,21 @@
 
 I'm a Full Stack Developer and Co-Founder of the [CodersCrew](https://coderscrew.pl), a Polish non-profit association where developers can exchange their knowledge and form teams to realize impactful projects.
 
+<br>
+
 ### 🚀 Projects, I'm currently working on
-[![CodersCamp](https://github-readme-stats.vercel.app/api/pin/?username=CodersCrew&repo=coderscamp&theme=discord_old_blurple)](https://github.com/CodersCrew/coderscamp)
+[![CodersCamp](https://github-readme-stats.vercel.app/api/pin/?username=CodersCrew&repo=coderscamp)](https://github.com/CodersCrew/coderscamp)
 
 <br>
 
 ### 🎉 Finished projects
-[![CodersCard](https://github-readme-stats.vercel.app/api/pin/?username=CodersCrew&repo=coders-card&theme=discord_old_blurple)](https://github.com/CodersCrew/coders-card)
-[![CodersBoard](https://github-readme-stats.vercel.app/api/pin/?username=CodersCrew&repo=coders-board&theme=discord_old_blurple)](https://github.com/CodersCrew/coders-board)
-[![Material UI Kit](https://github-readme-stats.vercel.app/api/pin/?username=CodersCrew&repo=material-ui-kit&theme=discord_old_blurple)](https://github.com/CodersCrew/material-ui-kit)
-[![CodersKit](https://github-readme-stats.vercel.app/api/pin/?username=CodersCrew&repo=coderskit&theme=discord_old_blurple)](https://github.com/CodersCrew/coderskit)
-[![Slide Decks](https://github-readme-stats.vercel.app/api/pin/?username=CodersCrew&repo=slide-decks&theme=discord_old_blurple)](https://github.com/CodersCrew/slide-decks)
-[![Cheatsheet Parser](https://github-readme-stats.vercel.app/api/pin/?username=CodersCrew&repo=cheatsheet-parser&theme=discord_old_blurple)](https://github.com/CodersCrew/cheatsheet-parser)
-[![inStudy](https://github-readme-stats.vercel.app/api/pin/?username=CodersCrew&repo=inStudy&theme=discord_old_blurple)](https://github.com/CodersCrew/inStudy)
+[![CodersCard](https://github-readme-stats.vercel.app/api/pin/?username=CodersCrew&repo=coders-card)](https://github.com/CodersCrew/coders-card)
+[![CodersBoard](https://github-readme-stats.vercel.app/api/pin/?username=CodersCrew&repo=coders-board)](https://github.com/CodersCrew/coders-board)
+[![Material UI Kit](https://github-readme-stats.vercel.app/api/pin/?username=CodersCrew&repo=material-ui-kit)](https://github.com/CodersCrew/material-ui-kit)
+[![CodersKit](https://github-readme-stats.vercel.app/api/pin/?username=CodersCrew&repo=coderskit)](https://github.com/CodersCrew/coderskit)
+[![Slide Decks](https://github-readme-stats.vercel.app/api/pin/?username=CodersCrew&repo=slide-decks)](https://github.com/CodersCrew/slide-decks)
+[![Cheatsheet Parser](https://github-readme-stats.vercel.app/api/pin/?username=CodersCrew&repo=cheatsheet-parser)](https://github.com/CodersCrew/cheatsheet-parser)
+[![inStudy](https://github-readme-stats.vercel.app/api/pin/?username=CodersCrew&repo=inStudy)](https://github.com/CodersCrew/inStudy)
 
 <br>
 
@@ -73,4 +75,4 @@ I'm a Full Stack Developer and Co-Founder of the [CodersCrew](https://coderscrew
 <br>
 
 ### 📊 My stats
-![Konrad's GitHub stats](https://github-readme-stats.vercel.app/api?username=KonradSzwarc&show_icons=true&theme=discord_old_blurple)
+![Konrad's GitHub stats](https://github-readme-stats.vercel.app/api?username=KonradSzwarc&show_icons=true)
