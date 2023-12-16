@@ -5,13 +5,13 @@ I'm a Full Stack Developer and Co-Founder of the [CodersCrew](https://coderscrew
 <br>
 
 ### 🚀 Projects, I'm currently working on
-[![DevsCard](https://github-readme-stats.vercel.app/api/pin/?username=KonradSzwarc&repo=devscard)](https://github.com/KonradSzwarc/devscard)
+Some private projects
 
 <br>
 
 ### 🎉 Finished projects
+[![DevsCard](https://github-readme-stats.vercel.app/api/pin/?username=KonradSzwarc&repo=devscard)](https://github.com/KonradSzwarc/devscard)
 [![CodersCamp](https://github-readme-stats.vercel.app/api/pin/?username=CodersCrew&repo=coderscamp)](https://github.com/CodersCrew/coderscamp)
-[![CodersCard](https://github-readme-stats.vercel.app/api/pin/?username=CodersCrew&repo=coders-card)](https://github.com/CodersCrew/coders-card)
 [![CodersBoard](https://github-readme-stats.vercel.app/api/pin/?username=CodersCrew&repo=coders-board)](https://github.com/CodersCrew/coders-board)
 [![Material UI Kit](https://github-readme-stats.vercel.app/api/pin/?username=CodersCrew&repo=material-ui-kit)](https://github.com/CodersCrew/material-ui-kit)
 [![CodersKit](https://github-readme-stats.vercel.app/api/pin/?username=CodersCrew&repo=coderskit)](https://github.com/CodersCrew/coderskit)
