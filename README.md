@@ -5,7 +5,7 @@ I'm a Full Stack Developer and Co-Founder of the [CodersCrew](https://coderscrew
 <br>
 
 ### 🚀 Projects, I'm currently working on
-Some private projects
+[![Zenith](https://github-readme-stats.vercel.app/api/pin/?username=KonradSzwarc&repo=zenith)](https://github.com/KonradSzwarc/zenith)
 
 <br>
 
