@@ -6,6 +6,7 @@ I'm a Full Stack Developer and Co-Founder of the [CodersCrew](https://coderscrew
 
 ### 🚀 Projects, I'm currently working on
 [![Zenith](https://github-readme-stats.vercel.app/api/pin/?username=KonradSzwarc&repo=zenith)](https://github.com/KonradSzwarc/zenith)
+[![Codeck](https://github-readme-stats.vercel.app/api/pin/?username=KonradSzwarc&repo=slidev-theme-codeck)](https://github.com/KonradSzwarc/slidev-theme-codeck)
 
 <br>
 
