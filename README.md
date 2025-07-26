@@ -4,23 +4,14 @@ I'm a Full Stack Developer and Co-Founder of the [CodersCrew](https://coderscrew
 
 <br>
 
-### 🚀 Projects, I'm currently working on
+### 🚀 My Projects
+
 [![Zenith](https://github-readme-stats.vercel.app/api/pin/?username=KonradSzwarc&repo=zenith)](https://github.com/KonradSzwarc/zenith)
-[![Codeck](https://github-readme-stats.vercel.app/api/pin/?username=KonradSzwarc&repo=slidev-theme-codeck)](https://github.com/KonradSzwarc/slidev-theme-codeck)
+[![Better Self Toolbox](https://github-readme-stats.vercel.app/api/pin/?username=KonradSzwarc&repo=better-self-toolbox)](https://github.com/KonradSzwarc/better-self-toolbox)
 
 <br>
 
-### 🎉 Finished projects
-[![DevsCard](https://github-readme-stats.vercel.app/api/pin/?username=KonradSzwarc&repo=devscard)](https://github.com/KonradSzwarc/devscard)
-[![CodersCamp](https://github-readme-stats.vercel.app/api/pin/?username=CodersCrew&repo=coderscamp)](https://github.com/CodersCrew/coderscamp)
-[![CodersBoard](https://github-readme-stats.vercel.app/api/pin/?username=CodersCrew&repo=coders-board)](https://github.com/CodersCrew/coders-board)
-[![Material UI Kit](https://github-readme-stats.vercel.app/api/pin/?username=CodersCrew&repo=material-ui-kit)](https://github.com/CodersCrew/material-ui-kit)
-[![CodersKit](https://github-readme-stats.vercel.app/api/pin/?username=CodersCrew&repo=coderskit)](https://github.com/CodersCrew/coderskit)
-[![inStudy](https://github-readme-stats.vercel.app/api/pin/?username=CodersCrew&repo=inStudy)](https://github.com/CodersCrew/inStudy)
-
-<br>
-
-### 🛠 My technologies and tools
+### 🛠 My Technologies and Tools
 
 ##### Front-end
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
