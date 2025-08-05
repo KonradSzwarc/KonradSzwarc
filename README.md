@@ -6,6 +6,7 @@ I'm a Full Stack Developer and Co-Founder of the [CodersCrew](https://coderscrew
 
 ### 🚀 My Projects
 
+[![UniTS](https://github-readme-stats.vercel.app/api/pin/?username=uni-ts&repo=uni-ts)](https://github.com/uni-ts/uni-ts)
 [![Zenith](https://github-readme-stats.vercel.app/api/pin/?username=KonradSzwarc&repo=zenith)](https://github.com/KonradSzwarc/zenith)
 [![Better Self Toolbox](https://github-readme-stats.vercel.app/api/pin/?username=KonradSzwarc&repo=better-self-toolbox)](https://github.com/KonradSzwarc/better-self-toolbox)
 
